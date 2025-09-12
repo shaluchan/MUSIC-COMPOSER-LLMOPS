@@ -1,0 +1,4 @@
+venv/
+.env
+AI_MUSIC_COMPOSER.egg-info/
+__pycache__/
