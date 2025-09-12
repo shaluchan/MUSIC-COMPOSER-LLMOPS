@@ -1,7 +1,7 @@
 import music21
 import numpy as np 
 import io 
-from scipy.io.wavfile import wriite as write_wav
+from scipy.io.wavfile import write as write_wav
 from synthesizer import Synthesizer,Waveform
 
 
